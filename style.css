@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fbeeff;
+    background-color: #a300d4;
     padding: 30px;
 }
 
 .todo-container {
-    background-color: #fff;
+    background-color: rgb(209, 209, 0);
     border-radius: 5px;
     padding: 20px;
     max-width: 500px;
@@ -19,7 +19,7 @@ body {
 
 #todo-list li {
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #ff1616;
     margin-bottom: 10px;
     position: relative;
 }
